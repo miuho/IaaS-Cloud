@@ -1,0 +1,3 @@
+I used The OpenStack Python Software Development Kit (SDK), and it is actually pre-installed in the given Amazon EC2 P1.1 image.
+
+http://docs.openstack.org/user-guide/sdk.html
